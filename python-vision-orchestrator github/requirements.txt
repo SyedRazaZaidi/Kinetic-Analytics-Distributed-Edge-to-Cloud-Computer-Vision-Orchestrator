@@ -1,0 +1,5 @@
+opencv-python
+pyzmq
+fastapi
+uvicorn
+python-multipart
